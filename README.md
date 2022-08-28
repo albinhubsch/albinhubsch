@@ -4,13 +4,15 @@ Coming up...
 
 ## 🎒 What I'm working on
 
-I'm currenlty a freelancing software engineer over at [Bräne Hübsch](https://github.com/Brane-Hubsch). Together with my colleagues we have specialized in creating awesome user experiences and great software solutions for both small startups and big trusted companies.
+I'm currently a freelancing software engineer over at [Bräne Hübsch](https://github.com/Brane-Hubsch). Together with my colleagues we have specialized in creating awesome user experiences and great software solutions for both small startups and big trusted companies.
 
 Do you want to work with us? Don't hesitate to contact me!
 
 ## 🇸🇪 About Me
 
-coming up...
+Born and raised in the early 90s in southern Sweden.
+
+![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinhubsch&show_icons=true&count_private=true&theme=aura_dark&hide_border=true&hide_title=true)
 
 ---
 
