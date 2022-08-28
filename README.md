@@ -12,7 +12,7 @@ Do you want to work with us? Don't hesitate to contact me!
 
 Born and raised in the early 90s in southern Sweden.
 
-![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinhubsch&show_icons=true&count_private=true&theme=city_lights&hide_border=true&hide_title=true&bg_color=0000)
+[![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albinhubsch&show_icons=true&count_private=true&theme=city_lights&hide_border=true&hide_title=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
